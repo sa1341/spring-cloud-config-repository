@@ -1,0 +1,3 @@
+account:
+  service:
+    url: https://prod.sanctum-server.com
